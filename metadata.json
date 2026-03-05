@@ -1,0 +1,5 @@
+{
+  "name": "Retail Master Flashcards",
+  "description": "Master your product catalog with AI-powered flashcards. Upload inventory CSVs and study products with spaced repetition.",
+  "requestFramePermissions": []
+}
